@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SMK Muh Pakem</string>
+    <string name="school_full_name">SMK Muhammadiyah Pakem</string>
+    <string name="school_tagline">SMK Pusat Keunggulan • Yogyakarta</string>
+    <string name="school_address">Jl. Kaliurang Km. 17,5, Pakembinangun, Pakem, Sleman, D.I. Yogyakarta 55582</string>
+    <string name="school_phone">+62 811-2654-321</string>
+    <string name="school_email">info@smkmuhpakem.sch.id</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_majors">Jurusan</string>
+    <string name="nav_tuition">Biaya</string>
+    <string name="nav_gallery">Galeri</string>
+    <string name="nav_contact">Kontak</string>
+    <string name="btn_whatsapp">Chat WhatsApp</string>
+    <string name="btn_maps">Buka Google Maps</string>
+    <string name="btn_submit_feedback">Kirim Pesan &amp; Kritik</string>
+</resources>

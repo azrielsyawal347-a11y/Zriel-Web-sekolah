@@ -1,0 +1,6 @@
+{
+  "name": "SMK Muh Pakem",
+  "description": "Portal informasi jurusan, rincian biaya PPDB, galeri kampus, WhatsApp, Google Maps, dan kritik saran SMK Muhammadiyah Pakem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
